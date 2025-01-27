@@ -129,19 +129,6 @@ The combined loss function:
 
 ---
 
-## Results and Analysis
-
-The model demonstrates significant improvement in tumor segmentation:
-
-- **Mean Dice Score**: 0.520
-- **Final Loss**: 0.726 after 10 epochs.
-
-
-**Prediction vs Ground Truth**:
-![Prediction](images/prediction_vs_ground_truth.png)
-
----
-
 ## How to Use
 
 ### **Clone the Repository**
