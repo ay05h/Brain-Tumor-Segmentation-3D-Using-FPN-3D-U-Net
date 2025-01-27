@@ -164,6 +164,7 @@ python main.py --mode test --weights final_model.pth
 1. Havaei, M., et al., "Brain Tumor Segmentation with Deep Neural Networks," *Medical Image Analysis*, 2017.
 2. Bakas, S., et al., "Segmentation Labels and Radiomic Features for TCGA-GBM Collection," *The Cancer Imaging Archive*, 2017.
 3. Çiçek, Ö., et al., "3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation," *MICCAI 2016*.
+4. Brain tumor image segmentation based on improved FPN,Haitao Sun, Shuai Yang, Lijuan Chen, Pingyan Liao, Xiangping Liu, Ying Liu & Ning Wang BMC Medical Imaging
 
 ---
 
